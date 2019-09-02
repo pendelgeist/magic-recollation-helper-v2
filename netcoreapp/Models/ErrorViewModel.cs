@@ -1,5 +1,3 @@
-using System;
-
 namespace netcoreapp.Models
 {
     public class ErrorViewModel
