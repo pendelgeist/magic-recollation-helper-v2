@@ -5,6 +5,7 @@ import About from './About';
 import Topics from './Topics';
 import Header from './Header';
 import SimplePage from './SimplePage';
+import './App.scss';
 
 const App = () => (
   <Router>
