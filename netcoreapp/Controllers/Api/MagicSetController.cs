@@ -1,5 +1,7 @@
 using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
+using netcoreapp.Models;
+using Newtonsoft.Json;
 
 namespace netcoreapp.Controllers.Api
 {
@@ -8,13 +10,10 @@ namespace netcoreapp.Controllers.Api
     public class MagicSetController : Controller
     {
         [HttpGet]
-        public ActionResult<IEnumerable<string>> Get()
+        public IEnumerable<MagicCard> Get()
         {
-            return new string[]
-            {
-                "value1",
-                "value2"
-            };
+            var cards = JsonConvert.DeserializeObject<MagicCard>(File.ReadAllText(@"../../Repositories/AllSetFiles/BFZ.json"));
+            return cards;
         }
 
         // GET api/values/5
