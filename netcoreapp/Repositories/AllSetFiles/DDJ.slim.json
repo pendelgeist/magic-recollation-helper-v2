@@ -1,0 +1,2095 @@
+{
+  "booster": null,
+  "name": "Duel Decks: Izzet vs. Golgari",
+  "code": "DDJ",
+  "totalSetSize": 90,
+  "cards": [
+    {
+      "name": "Barren Moor",
+      "uuid": "85fb1f78-0289-5389-b742-cc67bc0fa3f4",
+      "cmc": 0,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "B"
+        ]
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Boneyard Wurm",
+      "uuid": "15b6dc0e-f566-564f-945d-8ef816a5c24d",
+      "cmc": 2,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "G"
+        ],
+        "colorIdentity": [
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Wurm"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Brain Weevil",
+      "uuid": "b0570166-02f6-5c9b-9191-7c6d3472c2c5",
+      "cmc": 4,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "B"
+        ],
+        "colorIdentity": [
+          "B"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Insect"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Brainstorm",
+      "uuid": "fc27316c-c05f-5b25-85db-7cff2ea244f0",
+      "cmc": 1,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "U"
+        ],
+        "colorIdentity": [
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Instant"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Call to Heel",
+      "uuid": "dfb5a523-e1ef-5821-85d3-f3b7981660d0",
+      "cmc": 2,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "U"
+        ],
+        "colorIdentity": [
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Instant"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Dakmor Salvage",
+      "uuid": "4d16e1f6-4093-5d21-86cb-7175c384a4cd",
+      "cmc": 0,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "B"
+        ]
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Dissipate",
+      "uuid": "b6a6be39-35f0-5ab6-94fa-1e27f306fb0f",
+      "cmc": 3,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "U"
+        ],
+        "colorIdentity": [
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Instant"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Djinn Illuminatus",
+      "uuid": "97138ae7-323d-5a07-bda4-7abc0b235493",
+      "cmc": 7,
+      "rarity": "rare",
+      "color": {
+        "colors": [
+          "R",
+          "U"
+        ],
+        "colorIdentity": [
+          "R",
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Djinn"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Doomgape",
+      "uuid": "e676d5e2-8403-5ffe-a9d3-3c6c278a899d",
+      "cmc": 7,
+      "rarity": "rare",
+      "color": {
+        "colors": [
+          "B",
+          "G"
+        ],
+        "colorIdentity": [
+          "B",
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Elemental"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Dreg Mangler",
+      "uuid": "fff70c21-34d3-5071-8d10-435197a8f6ae",
+      "cmc": 3,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "B",
+          "G"
+        ],
+        "colorIdentity": [
+          "B",
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Plant",
+          "Zombie"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Elves of Deep Shadow",
+      "uuid": "9d222da5-c106-50ab-90db-dd12f0a662ed",
+      "cmc": 1,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "G"
+        ],
+        "colorIdentity": [
+          "B",
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Elf",
+          "Druid"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Eternal Witness",
+      "uuid": "ff451509-5047-52d6-898a-564f50b21da5",
+      "cmc": 3,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "G"
+        ],
+        "colorIdentity": [
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Human",
+          "Shaman"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Feast or Famine",
+      "uuid": "e30ca999-0c56-5d27-a262-e7e88548e25b",
+      "cmc": 4,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "B"
+        ],
+        "colorIdentity": [
+          "B"
+        ]
+      },
+      "type": {
+        "types": [
+          "Instant"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Ice",
+      "uuid": "bf5007b4-3b08-5e8d-8e97-3000d21c15a6",
+      "cmc": 4,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "U"
+        ],
+        "colorIdentity": [
+          "R",
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Instant"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Fire",
+      "uuid": "65a83f60-81e5-548d-b205-459c09e72139",
+      "cmc": 4,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "R"
+        ],
+        "colorIdentity": [
+          "R",
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Instant"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Force Spike",
+      "uuid": "5b7e4d55-88a5-5f94-8ca6-7f53bc7fb797",
+      "cmc": 1,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "U"
+        ],
+        "colorIdentity": [
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Instant"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Forest",
+      "uuid": "b67bb412-d5f6-5bfa-9744-f0db10c5e619",
+      "cmc": 0,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Forest"
+        ],
+        "supertypes": [
+          "Basic"
+        ]
+      }
+    },
+    {
+      "name": "Forest",
+      "uuid": "71fb50fb-e65c-5e35-a398-54748a0d0877",
+      "cmc": 0,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Forest"
+        ],
+        "supertypes": [
+          "Basic"
+        ]
+      }
+    },
+    {
+      "name": "Forest",
+      "uuid": "42a4fe3f-e55e-5592-8a53-647fce3cdd4d",
+      "cmc": 0,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Forest"
+        ],
+        "supertypes": [
+          "Basic"
+        ]
+      }
+    },
+    {
+      "name": "Forest",
+      "uuid": "a58983fc-dda6-5caa-accf-150f80e0e3b5",
+      "cmc": 0,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Forest"
+        ],
+        "supertypes": [
+          "Basic"
+        ]
+      }
+    },
+    {
+      "name": "Forgotten Cave",
+      "uuid": "464d0f81-9bc6-537b-aacd-eb2ad3840405",
+      "cmc": 0,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "R"
+        ]
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Galvanoth",
+      "uuid": "bd416f85-0032-574d-b68a-80406e793757",
+      "cmc": 5,
+      "rarity": "rare",
+      "color": {
+        "colors": [
+          "R"
+        ],
+        "colorIdentity": [
+          "R"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Beast"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Gelectrode",
+      "uuid": "762ee9a5-9a40-52d9-a993-d4f8364d44cc",
+      "cmc": 3,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "R",
+          "U"
+        ],
+        "colorIdentity": [
+          "R",
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Weird"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Ghoul's Feast",
+      "uuid": "f87b02a3-fd11-55ff-b15e-1b9f49a9bad4",
+      "cmc": 2,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "B"
+        ],
+        "colorIdentity": [
+          "B"
+        ]
+      },
+      "type": {
+        "types": [
+          "Instant"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Gleancrawler",
+      "uuid": "b43998ca-acc6-540f-9988-382bb16205e0",
+      "cmc": 6,
+      "rarity": "rare",
+      "color": {
+        "colors": [
+          "B",
+          "G"
+        ],
+        "colorIdentity": [
+          "B",
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Insect",
+          "Horror"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Goblin Electromancer",
+      "uuid": "2fc27986-c70c-5744-aec4-33ca943aeef0",
+      "cmc": 2,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "R",
+          "U"
+        ],
+        "colorIdentity": [
+          "R",
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Goblin",
+          "Wizard"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Golgari Germination",
+      "uuid": "1ef1ff84-4569-584d-bc21-3e3bf280be39",
+      "cmc": 3,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "B",
+          "G"
+        ],
+        "colorIdentity": [
+          "B",
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Enchantment"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Golgari Grave-Troll",
+      "uuid": "9fb695b6-2a12-5b78-8401-c9ea2846ca53",
+      "cmc": 5,
+      "rarity": "rare",
+      "color": {
+        "colors": [
+          "G"
+        ],
+        "colorIdentity": [
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Troll",
+          "Skeleton"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Golgari Rot Farm",
+      "uuid": "fa818e9b-2309-5b91-afcd-06b22eb318a4",
+      "cmc": 0,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "B",
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Golgari Rotwurm",
+      "uuid": "622186b6-db2a-5aa5-ab89-2e2f3872596f",
+      "cmc": 5,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "B",
+          "G"
+        ],
+        "colorIdentity": [
+          "B",
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Zombie",
+          "Wurm"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Golgari Signet",
+      "uuid": "e8bf45ea-2709-5a89-b665-c4819cba1be5",
+      "cmc": 2,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "B",
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Artifact"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Golgari Thug",
+      "uuid": "bc8c060b-51a3-5149-af22-756b8de5bda8",
+      "cmc": 2,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "B"
+        ],
+        "colorIdentity": [
+          "B"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Human",
+          "Warrior"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Greater Mossdog",
+      "uuid": "c9ac2d3c-aec2-5bd1-b000-5c72909bd34d",
+      "cmc": 4,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "G"
+        ],
+        "colorIdentity": [
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Plant",
+          "Hound"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Grim Flowering",
+      "uuid": "a9f16384-3934-52e0-ac44-a4def361fcda",
+      "cmc": 6,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "G"
+        ],
+        "colorIdentity": [
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Sorcery"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Invoke the Firemind",
+      "uuid": "e3c3d94c-d8bf-5886-b6d6-0e3c39f10b31",
+      "cmc": 3,
+      "rarity": "rare",
+      "color": {
+        "colors": [
+          "R",
+          "U"
+        ],
+        "colorIdentity": [
+          "R",
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Sorcery"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Island",
+      "uuid": "caff777c-92c6-56eb-bb8b-f32d58164f7d",
+      "cmc": 0,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Island"
+        ],
+        "supertypes": [
+          "Basic"
+        ]
+      }
+    },
+    {
+      "name": "Island",
+      "uuid": "bad09e01-616a-5dce-85ec-ff8cb81f3abd",
+      "cmc": 0,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Island"
+        ],
+        "supertypes": [
+          "Basic"
+        ]
+      }
+    },
+    {
+      "name": "Island",
+      "uuid": "d7a824c9-ed72-5037-baeb-cbed02460425",
+      "cmc": 0,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Island"
+        ],
+        "supertypes": [
+          "Basic"
+        ]
+      }
+    },
+    {
+      "name": "Island",
+      "uuid": "d3330101-43ce-5627-a3e7-810eceb9a30f",
+      "cmc": 0,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Island"
+        ],
+        "supertypes": [
+          "Basic"
+        ]
+      }
+    },
+    {
+      "name": "Isochron Scepter",
+      "uuid": "f67d3ab8-edc8-57f2-b59a-79c34bf4780f",
+      "cmc": 2,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Artifact"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Izzet Boilerworks",
+      "uuid": "2366704f-2d46-533e-bd05-2c1ce741bafc",
+      "cmc": 0,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "R",
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Izzet Charm",
+      "uuid": "04c7b798-27c7-5117-a86a-dfc49fce5380",
+      "cmc": 2,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "R",
+          "U"
+        ],
+        "colorIdentity": [
+          "R",
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Instant"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Izzet Chronarch",
+      "uuid": "685d0d6f-b2f0-5922-b558-6bba1b16f5e3",
+      "cmc": 5,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "R",
+          "U"
+        ],
+        "colorIdentity": [
+          "R",
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Human",
+          "Wizard"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Izzet Guildmage",
+      "uuid": "e0890382-ede1-53a0-818f-372b449935c5",
+      "cmc": 2,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "R",
+          "U"
+        ],
+        "colorIdentity": [
+          "R",
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Human",
+          "Wizard"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Izzet Signet",
+      "uuid": "dc4d5a94-9260-50b7-aec0-c12e3994a88d",
+      "cmc": 2,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "R",
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Artifact"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Jarad, Golgari Lich Lord",
+      "uuid": "5abf0973-ca7b-599c-92fe-3c465c7d33ab",
+      "cmc": 4,
+      "rarity": "mythic",
+      "color": {
+        "colors": [
+          "B",
+          "G"
+        ],
+        "colorIdentity": [
+          "B",
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Zombie",
+          "Elf"
+        ],
+        "supertypes": [
+          "Legendary"
+        ]
+      }
+    },
+    {
+      "name": "Kiln Fiend",
+      "uuid": "9e87ac1f-242d-573c-acaa-edc07f75f41b",
+      "cmc": 2,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "R"
+        ],
+        "colorIdentity": [
+          "R"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Elemental",
+          "Beast"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Korozda Guildmage",
+      "uuid": "0946c123-420b-56e0-983f-4f70a9c38ed6",
+      "cmc": 2,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "B",
+          "G"
+        ],
+        "colorIdentity": [
+          "B",
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Elf",
+          "Shaman"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Death",
+      "uuid": "53e3cd24-d803-59b8-909d-1e947dedd181",
+      "cmc": 3,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "B"
+        ],
+        "colorIdentity": [
+          "B",
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Sorcery"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Life",
+      "uuid": "a26e9f93-7f55-5476-9566-ad8c3a5a23b4",
+      "cmc": 3,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "G"
+        ],
+        "colorIdentity": [
+          "B",
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Sorcery"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Life from the Loam",
+      "uuid": "f9e611d8-831e-5d2f-b3ca-a0d455ee3914",
+      "cmc": 2,
+      "rarity": "rare",
+      "color": {
+        "colors": [
+          "G"
+        ],
+        "colorIdentity": [
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Sorcery"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Lonely Sandbar",
+      "uuid": "c7343c35-b9cb-5081-b9d9-fe47c54c839c",
+      "cmc": 0,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Magma Spray",
+      "uuid": "8dc9efcb-cef8-5975-b008-f7d414c3bfa8",
+      "cmc": 1,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "R"
+        ],
+        "colorIdentity": [
+          "R"
+        ]
+      },
+      "type": {
+        "types": [
+          "Instant"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Mountain",
+      "uuid": "865d13f2-0663-521f-b265-16e858a84551",
+      "cmc": 0,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "R"
+        ]
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Mountain"
+        ],
+        "supertypes": [
+          "Basic"
+        ]
+      }
+    },
+    {
+      "name": "Mountain",
+      "uuid": "313c1aec-0a04-5cc5-a32b-e921d14c776a",
+      "cmc": 0,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "R"
+        ]
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Mountain"
+        ],
+        "supertypes": [
+          "Basic"
+        ]
+      }
+    },
+    {
+      "name": "Mountain",
+      "uuid": "a141406e-ed24-5e05-837f-aa2efb32fdf8",
+      "cmc": 0,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "R"
+        ]
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Mountain"
+        ],
+        "supertypes": [
+          "Basic"
+        ]
+      }
+    },
+    {
+      "name": "Mountain",
+      "uuid": "a76902d1-33ae-5812-bb95-e8400ae4a7fb",
+      "cmc": 0,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "R"
+        ]
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Mountain"
+        ],
+        "supertypes": [
+          "Basic"
+        ]
+      }
+    },
+    {
+      "name": "Nightmare Void",
+      "uuid": "e92ff505-c21f-5113-8531-6d013e137ecc",
+      "cmc": 4,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "B"
+        ],
+        "colorIdentity": [
+          "B"
+        ]
+      },
+      "type": {
+        "types": [
+          "Sorcery"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Niv-Mizzet, the Firemind",
+      "uuid": "325fef92-976f-5943-b756-08e0705aee5c",
+      "cmc": 6,
+      "rarity": "mythic",
+      "color": {
+        "colors": [
+          "R",
+          "U"
+        ],
+        "colorIdentity": [
+          "R",
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Dragon",
+          "Wizard"
+        ],
+        "supertypes": [
+          "Legendary"
+        ]
+      }
+    },
+    {
+      "name": "Nivix, Aerie of the Firemind",
+      "uuid": "cad86074-78ec-5b60-beb8-0793b1d96075",
+      "cmc": 0,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "R",
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Ogre Savant",
+      "uuid": "25b625ab-eced-5cdc-9dd2-41f9feaafc12",
+      "cmc": 5,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "R"
+        ],
+        "colorIdentity": [
+          "R",
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Ogre",
+          "Wizard"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Overwhelming Intellect",
+      "uuid": "8a2f0e5c-b5a6-5de2-990c-6bd97d8298b2",
+      "cmc": 6,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "U"
+        ],
+        "colorIdentity": [
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Instant"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Plagued Rusalka",
+      "uuid": "d7b10bd4-2e76-54a7-81dc-b4c609142862",
+      "cmc": 1,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "B"
+        ],
+        "colorIdentity": [
+          "B"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Spirit"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Prophetic Bolt",
+      "uuid": "c29086aa-038d-5e3c-9324-077ce06af52c",
+      "cmc": 5,
+      "rarity": "rare",
+      "color": {
+        "colors": [
+          "R",
+          "U"
+        ],
+        "colorIdentity": [
+          "R",
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Instant"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Putrefy",
+      "uuid": "9809eebf-2eb3-5e1b-a81d-acf45b783be2",
+      "cmc": 3,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "B",
+          "G"
+        ],
+        "colorIdentity": [
+          "B",
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Instant"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Putrid Leech",
+      "uuid": "99797c30-9ffd-56f3-8686-06b801f9526d",
+      "cmc": 2,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "B",
+          "G"
+        ],
+        "colorIdentity": [
+          "B",
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Zombie",
+          "Leech"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Pyromatics",
+      "uuid": "437e5361-d792-509a-a045-8b2bf819ad26",
+      "cmc": 2,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "R"
+        ],
+        "colorIdentity": [
+          "R"
+        ]
+      },
+      "type": {
+        "types": [
+          "Instant"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Quicksilver Dagger",
+      "uuid": "350f70a7-8b2d-5bd9-ba57-da8091c0c475",
+      "cmc": 3,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "R",
+          "U"
+        ],
+        "colorIdentity": [
+          "R",
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Enchantment"
+        ],
+        "subtypes": [
+          "Aura"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Ravenous Rats",
+      "uuid": "0df189a5-9be9-5278-a03d-0f9a4c3c6d3b",
+      "cmc": 2,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "B"
+        ],
+        "colorIdentity": [
+          "B"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Rat"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Reassembling Skeleton",
+      "uuid": "f7c04770-2cb5-51b6-ba3b-4a4a638faed4",
+      "cmc": 2,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "B"
+        ],
+        "colorIdentity": [
+          "B"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Skeleton",
+          "Warrior"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Reminisce",
+      "uuid": "362e52f0-2e0d-5830-9c5b-0f4efda4ce06",
+      "cmc": 3,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "U"
+        ],
+        "colorIdentity": [
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Sorcery"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Sadistic Hypnotist",
+      "uuid": "e0b403a0-2e38-5429-b8ba-417e9fa84c90",
+      "cmc": 5,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "B"
+        ],
+        "colorIdentity": [
+          "B"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Human",
+          "Minion"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Shambling Shell",
+      "uuid": "ba4832ca-8cb8-591a-b021-74150f383570",
+      "cmc": 3,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "B",
+          "G"
+        ],
+        "colorIdentity": [
+          "B",
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Plant",
+          "Zombie"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Shrewd Hatchling",
+      "uuid": "f496ce34-8d13-5dfd-9174-8154ff27f176",
+      "cmc": 4,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "R",
+          "U"
+        ],
+        "colorIdentity": [
+          "R",
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Elemental"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Sphinx-Bone Wand",
+      "uuid": "e399cf53-4ce5-590d-9d50-1b9967ec8916",
+      "cmc": 7,
+      "rarity": "rare",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Artifact"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Steamcore Weird",
+      "uuid": "fc45957a-cc8c-51ad-a660-50cafe49c8b7",
+      "cmc": 4,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "U"
+        ],
+        "colorIdentity": [
+          "R",
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Weird"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Stingerfling Spider",
+      "uuid": "81ad887f-d706-53bc-9537-1685f845a3bd",
+      "cmc": 5,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "G"
+        ],
+        "colorIdentity": [
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Spider"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Stinkweed Imp",
+      "uuid": "0faa8179-2809-5556-b081-908ab623f1ca",
+      "cmc": 3,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "B"
+        ],
+        "colorIdentity": [
+          "B"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Imp"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Street Spasm",
+      "uuid": "90b76df8-154a-5c33-80ce-75f3805b3023",
+      "cmc": 1,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "R"
+        ],
+        "colorIdentity": [
+          "R"
+        ]
+      },
+      "type": {
+        "types": [
+          "Instant"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Svogthos, the Restless Tomb",
+      "uuid": "9027e000-7b30-5b79-94ba-978b8a138b81",
+      "cmc": 0,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "B",
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Swamp",
+      "uuid": "96c9cdd5-0845-5adf-b621-15cea709cfce",
+      "cmc": 0,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "B"
+        ]
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Swamp"
+        ],
+        "supertypes": [
+          "Basic"
+        ]
+      }
+    },
+    {
+      "name": "Swamp",
+      "uuid": "d510af62-ef0b-5d19-913a-db8ae67e80b5",
+      "cmc": 0,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "B"
+        ]
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Swamp"
+        ],
+        "supertypes": [
+          "Basic"
+        ]
+      }
+    },
+    {
+      "name": "Swamp",
+      "uuid": "edddb18d-f98c-5a82-adf4-8c3cf0ed3fce",
+      "cmc": 0,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "B"
+        ]
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Swamp"
+        ],
+        "supertypes": [
+          "Basic"
+        ]
+      }
+    },
+    {
+      "name": "Swamp",
+      "uuid": "eaa8ad0d-28b0-5fa8-96f5-b7f09a753a41",
+      "cmc": 0,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "B"
+        ]
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Swamp"
+        ],
+        "supertypes": [
+          "Basic"
+        ]
+      }
+    },
+    {
+      "name": "Thunderheads",
+      "uuid": "c20c0b53-49e2-5f12-b775-4393ceaab890",
+      "cmc": 3,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "U"
+        ],
+        "colorIdentity": [
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Instant"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Train of Thought",
+      "uuid": "ef4e4636-6ac4-5f59-b950-6a174ee62603",
+      "cmc": 2,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "U"
+        ],
+        "colorIdentity": [
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Sorcery"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Tranquil Thicket",
+      "uuid": "af3be9cf-0e17-5fd5-b61a-de7c8694f13f",
+      "cmc": 0,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Twilight's Call",
+      "uuid": "b82ee45d-9ce9-5de3-add8-5b751275a6b5",
+      "cmc": 6,
+      "rarity": "rare",
+      "color": {
+        "colors": [
+          "B"
+        ],
+        "colorIdentity": [
+          "B"
+        ]
+      },
+      "type": {
+        "types": [
+          "Sorcery"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Vacuumelt",
+      "uuid": "78e5d714-ef32-52e9-935d-4d98176eafe4",
+      "cmc": 3,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "U"
+        ],
+        "colorIdentity": [
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Sorcery"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Vigor Mortis",
+      "uuid": "bf5fe1e2-b587-5d8e-b47c-78b9ba7c9ff4",
+      "cmc": 4,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "B"
+        ],
+        "colorIdentity": [
+          "B",
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Sorcery"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Wee Dragonauts",
+      "uuid": "a5add3fc-95df-5a33-ae3a-bdf134059512",
+      "cmc": 3,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "R",
+          "U"
+        ],
+        "colorIdentity": [
+          "R",
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Faerie",
+          "Wizard"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Yoke of the Damned",
+      "uuid": "428511e9-4096-5589-aa41-b10b2ea7875d",
+      "cmc": 2,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "B"
+        ],
+        "colorIdentity": [
+          "B"
+        ]
+      },
+      "type": {
+        "types": [
+          "Enchantment"
+        ],
+        "subtypes": [
+          "Aura"
+        ],
+        "supertypes": []
+      }
+    }
+  ]
+}

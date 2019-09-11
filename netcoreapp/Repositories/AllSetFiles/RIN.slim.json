@@ -1,0 +1,1411 @@
+{
+  "booster": null,
+  "name": "Rinascimento",
+  "code": "RIN",
+  "totalSetSize": 69,
+  "cards": [
+    {
+      "name": "Abu Ja'far",
+      "uuid": "86d6fcd0-332f-5c1e-81db-c5d7cee5d8ff",
+      "cmc": 1,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "W"
+        ],
+        "colorIdentity": [
+          "W"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Human"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Aladdin",
+      "uuid": "dbeed27b-4d4c-5c78-b2dd-a14377a5270c",
+      "cmc": 4,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "R"
+        ],
+        "colorIdentity": [
+          "R"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Human",
+          "Rogue"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Ali Baba",
+      "uuid": "2fbab103-9175-5870-86d4-634753d99837",
+      "cmc": 1,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "R"
+        ],
+        "colorIdentity": [
+          "R"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Human",
+          "Rogue"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Amulet of Kroog",
+      "uuid": "5b98e6a3-67da-57d9-b9ef-ab07216141c0",
+      "cmc": 2,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Artifact"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Argothian Pixies",
+      "uuid": "af818be8-e6ab-5956-b657-7e5ae6f0ae09",
+      "cmc": 2,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "G"
+        ],
+        "colorIdentity": [
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Faerie"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Ashnod's Altar",
+      "uuid": "95c4f6e9-90ae-5b25-b24f-e7438cc6e6c5",
+      "cmc": 3,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Artifact"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Ashnod's Battle Gear",
+      "uuid": "798c7c10-1e54-5e8b-8b1e-7d1c62c57e45",
+      "cmc": 2,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Artifact"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Ashnod's Transmogrant",
+      "uuid": "abe8244b-b72d-57b4-9ae7-ffe91b1000a5",
+      "cmc": 1,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Artifact"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Battering Ram",
+      "uuid": "64a4d550-522e-5171-8164-a5d857bbec5b",
+      "cmc": 2,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Artifact",
+          "Creature"
+        ],
+        "subtypes": [
+          "Construct"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Bird Maiden",
+      "uuid": "c9c13208-9fd8-5e0e-ae2b-ca70c74f80c6",
+      "cmc": 3,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "R"
+        ],
+        "colorIdentity": [
+          "R"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Human",
+          "Bird"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Bronze Tablet",
+      "uuid": "de777895-dcfd-5dd3-9617-9af4d0223950",
+      "cmc": 6,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Artifact"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Circle of Protection: Artifacts",
+      "uuid": "2b847efd-235c-566d-811a-2b13d08a8394",
+      "cmc": 2,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "W"
+        ],
+        "colorIdentity": [
+          "W"
+        ]
+      },
+      "type": {
+        "types": [
+          "Enchantment"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "City of Brass",
+      "uuid": "d0bcdd31-5698-5317-867f-0745c4188696",
+      "cmc": 0,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Clay Statue",
+      "uuid": "8e5d4e7e-9624-571d-a1d3-4474a88cb9ee",
+      "cmc": 4,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Artifact",
+          "Creature"
+        ],
+        "subtypes": [
+          "Golem"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Clockwork Avian",
+      "uuid": "486b50c8-87a8-5108-b1a4-f9d55b1e1f82",
+      "cmc": 5,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Artifact",
+          "Creature"
+        ],
+        "subtypes": [
+          "Bird"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Colossus of Sardia",
+      "uuid": "9a61ceb4-2bbd-5660-bb5a-9f3aa848897d",
+      "cmc": 9,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Artifact",
+          "Creature"
+        ],
+        "subtypes": [
+          "Golem"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Coral Helm",
+      "uuid": "e294c2d4-762c-5848-a212-397e8134bc11",
+      "cmc": 3,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Artifact"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Cuombajj Witches",
+      "uuid": "aa569b22-e519-5d9d-a663-ff6ff48c01cf",
+      "cmc": 2,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "B"
+        ],
+        "colorIdentity": [
+          "B"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Human",
+          "Wizard"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Cursed Rack",
+      "uuid": "156e25d0-1255-5162-aa16-42d92d162949",
+      "cmc": 4,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Artifact"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Cyclone",
+      "uuid": "f4316baf-651f-5b9a-83c4-85eeec223b73",
+      "cmc": 4,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "G"
+        ],
+        "colorIdentity": [
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Enchantment"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Dandân",
+      "uuid": "b3747b2d-169b-5416-85ad-d2a5fe3639f0",
+      "cmc": 2,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "U"
+        ],
+        "colorIdentity": [
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Fish"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Detonate",
+      "uuid": "a8412066-b9b3-5522-961a-b90513423dae",
+      "cmc": 1,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "R"
+        ],
+        "colorIdentity": [
+          "R"
+        ]
+      },
+      "type": {
+        "types": [
+          "Sorcery"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Erhnam Djinn",
+      "uuid": "a8503c9b-b4c2-5465-9c7a-7828fdfd77b5",
+      "cmc": 4,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "G"
+        ],
+        "colorIdentity": [
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Djinn"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Feldon's Cane",
+      "uuid": "af6ff0e1-bc80-5f58-8b00-2c43e8521c6f",
+      "cmc": 1,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Artifact"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Fishliver Oil",
+      "uuid": "d8f0a73c-4b75-514b-a8ca-c8c990e04626",
+      "cmc": 2,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "U"
+        ],
+        "colorIdentity": [
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Enchantment"
+        ],
+        "subtypes": [
+          "Aura"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Ghazbán Ogre",
+      "uuid": "622564a9-67b1-5f40-8258-678a2c91a290",
+      "cmc": 1,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "G"
+        ],
+        "colorIdentity": [
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Ogre"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Giant Tortoise",
+      "uuid": "ef29ae18-315c-58ee-86c1-7d939de790a3",
+      "cmc": 2,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "U"
+        ],
+        "colorIdentity": [
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Turtle"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Goblin Artisans",
+      "uuid": "83dd4b71-46c1-5f6f-9dd9-cec0852a4b8e",
+      "cmc": 1,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "R"
+        ],
+        "colorIdentity": [
+          "R"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Goblin",
+          "Artificer"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Grapeshot Catapult",
+      "uuid": "c064e3ca-d17a-52dc-8f11-f681e17a57f5",
+      "cmc": 4,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Artifact",
+          "Creature"
+        ],
+        "subtypes": [
+          "Construct"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Hasran Ogress",
+      "uuid": "89ef684c-b3ff-5bca-a27e-c6d2f65e7849",
+      "cmc": 2,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "B"
+        ],
+        "colorIdentity": [
+          "B"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Ogre"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Hurr Jackal",
+      "uuid": "891337a9-a156-5ae6-9f97-9346190bae56",
+      "cmc": 1,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "R"
+        ],
+        "colorIdentity": [
+          "R"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Jackal"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Ironclaw Orcs",
+      "uuid": "4d703399-9c16-57d9-a65b-a0cc9735a812",
+      "cmc": 2,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "R"
+        ],
+        "colorIdentity": [
+          "R"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Orc"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Jalum Tome",
+      "uuid": "95a91194-e652-55f6-9f6a-11f96ae722bf",
+      "cmc": 3,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Artifact"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Jeweled Bird",
+      "uuid": "5f588043-1a09-5338-bd99-7a4aee8918c4",
+      "cmc": 1,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Artifact"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Junún Efreet",
+      "uuid": "68401d19-bf08-572f-bf5b-8eb9db5c634e",
+      "cmc": 3,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "B"
+        ],
+        "colorIdentity": [
+          "B"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Efreet"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Metamorphosis",
+      "uuid": "c9c333a9-bfbf-58fc-b10d-b9538e7eb304",
+      "cmc": 1,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "G"
+        ],
+        "colorIdentity": [
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Sorcery"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Mishra's Factory",
+      "uuid": "44357cb9-bdf5-58ad-98c3-d1f86aadc585",
+      "cmc": 0,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Nafs Asp",
+      "uuid": "2551ae19-4835-55e6-842d-f84dfad198ba",
+      "cmc": 1,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "G"
+        ],
+        "colorIdentity": [
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Snake"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Oasis",
+      "uuid": "d988bfd9-39ca-5179-bd3a-74d40f772674",
+      "cmc": 0,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Obelisk of Undoing",
+      "uuid": "4b178ca4-1761-52d5-b9d7-12d603b266fb",
+      "cmc": 1,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Artifact"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Rakalite",
+      "uuid": "823a8264-cba7-57be-b125-9b55a0f304cb",
+      "cmc": 6,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Artifact"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Repentant Blacksmith",
+      "uuid": "71e7e322-485a-562d-906b-c97bf5c5c422",
+      "cmc": 2,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "W"
+        ],
+        "colorIdentity": [
+          "W"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Human"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Sandstorm",
+      "uuid": "870f6980-506b-5c8b-8954-939723ea9013",
+      "cmc": 1,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "G"
+        ],
+        "colorIdentity": [
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Instant"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Shapeshifter",
+      "uuid": "d10bb5fd-86db-51b8-9fe1-826fdde47735",
+      "cmc": 6,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Artifact",
+          "Creature"
+        ],
+        "subtypes": [
+          "Shapeshifter"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Sindbad",
+      "uuid": "38f4f08e-0c26-53e7-b061-f48fd71655ac",
+      "cmc": 2,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "U"
+        ],
+        "colorIdentity": [
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Human"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Strip Mine",
+      "uuid": "6f9d609c-9eff-5711-8e5f-23515288a113",
+      "cmc": 0,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Tawnos's Wand",
+      "uuid": "03d104ef-ec9d-5352-98fb-9f7399c5cee6",
+      "cmc": 4,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Artifact"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Tawnos's Weaponry",
+      "uuid": "755f0862-f6e5-56d3-bb88-f95c2b33120a",
+      "cmc": 2,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Artifact"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Tetravus",
+      "uuid": "21fe3f93-4210-5773-ba45-9c14d8eee52d",
+      "cmc": 6,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Artifact",
+          "Creature"
+        ],
+        "subtypes": [
+          "Construct"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Triskelion",
+      "uuid": "918fbd3e-fa34-5a92-94d5-6c2386cf4e90",
+      "cmc": 6,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Artifact",
+          "Creature"
+        ],
+        "subtypes": [
+          "Construct"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Twiddle",
+      "uuid": "4c58cdc2-b0d4-50a5-a802-47238f18274d",
+      "cmc": 1,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "U"
+        ],
+        "colorIdentity": [
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Instant"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Urza's Avenger",
+      "uuid": "8105643d-e2a8-5890-b56d-3cad7c0c6787",
+      "cmc": 6,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Artifact",
+          "Creature"
+        ],
+        "subtypes": [
+          "Shapeshifter"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Urza's Mine",
+      "uuid": "b9771643-3932-5696-ae5c-259af123081a",
+      "cmc": 0,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Urza’s",
+          "Mine"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Urza's Mine",
+      "uuid": "efc103e6-6dd6-5a97-88fc-3fb56ee2e8c1",
+      "cmc": 0,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Urza’s",
+          "Mine"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Urza's Mine",
+      "uuid": "c7cbdfb1-da50-5b0a-a165-2ef853d6ba10",
+      "cmc": 0,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Urza’s",
+          "Mine"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Urza's Mine",
+      "uuid": "eb586cd7-b49a-509e-9166-b10383be903b",
+      "cmc": 0,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Urza’s",
+          "Mine"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Urza's Power Plant",
+      "uuid": "3eaeea69-3adf-5ef2-b099-3959be4d1a71",
+      "cmc": 0,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Urza’s",
+          "Power-Plant"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Urza's Power Plant",
+      "uuid": "fc9cc971-6f13-533b-8422-0f8e78bc1b90",
+      "cmc": 0,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Urza’s",
+          "Power-Plant"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Urza's Power Plant",
+      "uuid": "6f834b16-893c-5ead-95b7-2d31c05ca21f",
+      "cmc": 0,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Urza’s",
+          "Power-Plant"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Urza's Power Plant",
+      "uuid": "02f633a6-7c92-5747-906c-39080ec42590",
+      "cmc": 0,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Urza’s",
+          "Power-Plant"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Urza's Tower",
+      "uuid": "d7304e63-1dba-593a-8599-e0562b4a7967",
+      "cmc": 0,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Urza’s",
+          "Tower"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Urza's Tower",
+      "uuid": "b1e2ee71-eae1-5fa2-9310-659157d35797",
+      "cmc": 0,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Urza’s",
+          "Tower"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Urza's Tower",
+      "uuid": "c7ce6bd4-c23c-53aa-a977-dde6ca4fa877",
+      "cmc": 0,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Urza’s",
+          "Tower"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Urza's Tower",
+      "uuid": "4cbd8b0e-6380-5187-8d9d-f1f9741aa2c3",
+      "cmc": 0,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Urza’s",
+          "Tower"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Wall of Spears",
+      "uuid": "be291a10-5d25-56ae-9ee7-65d7ef27d841",
+      "cmc": 3,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Artifact",
+          "Creature"
+        ],
+        "subtypes": [
+          "Wall"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "War Elephant",
+      "uuid": "32476691-cd6b-583a-aab9-b92c56a616b8",
+      "cmc": 4,
+      "rarity": "common",
+      "color": {
+        "colors": [
+          "W"
+        ],
+        "colorIdentity": [
+          "W"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Elephant"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Xenic Poltergeist",
+      "uuid": "67ab4d9f-8f22-5ae1-a2df-b64f9fd31d5d",
+      "cmc": 3,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "B"
+        ],
+        "colorIdentity": [
+          "B"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Spirit"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Yawgmoth Demon",
+      "uuid": "5e58f802-68a6-51be-b87a-988f065c263c",
+      "cmc": 6,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [
+          "B"
+        ],
+        "colorIdentity": [
+          "B"
+        ]
+      },
+      "type": {
+        "types": [
+          "Creature"
+        ],
+        "subtypes": [
+          "Demon"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Yotian Soldier",
+      "uuid": "bcc53254-41e2-5384-a169-beba08f69346",
+      "cmc": 3,
+      "rarity": "common",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Artifact",
+          "Creature"
+        ],
+        "subtypes": [
+          "Soldier"
+        ],
+        "supertypes": []
+      }
+    }
+  ]
+}

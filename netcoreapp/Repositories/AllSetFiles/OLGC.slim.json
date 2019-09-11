@@ -1,0 +1,295 @@
+{
+  "booster": null,
+  "name": "Legacy Championship",
+  "code": "OLGC",
+  "totalSetSize": 13,
+  "cards": [
+    {
+      "name": "Badlands",
+      "uuid": "9b63b103-e084-5b62-8f66-85fd21b96c98",
+      "cmc": 0,
+      "rarity": "mythic",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "B",
+          "R"
+        ]
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Swamp",
+          "Mountain"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Bayou",
+      "uuid": "2997f975-0160-5cd9-8234-42ecbb08b70e",
+      "cmc": 0,
+      "rarity": "mythic",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "B",
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Swamp",
+          "Forest"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Brainstorm",
+      "uuid": "f9850171-356f-5e30-a188-6093e4750a6b",
+      "cmc": 1,
+      "rarity": "rare",
+      "color": {
+        "colors": [
+          "U"
+        ],
+        "colorIdentity": [
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Instant"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Force of Will",
+      "uuid": "d41aa2f4-cbde-556c-a336-0ba0959ec8a0",
+      "cmc": 5,
+      "rarity": "rare",
+      "color": {
+        "colors": [
+          "U"
+        ],
+        "colorIdentity": [
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Instant"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Gaea's Cradle",
+      "uuid": "3807c9db-a4bd-5d85-80bf-34b63a8b9e4c",
+      "cmc": 0,
+      "rarity": "mythic",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "G"
+        ]
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [],
+        "supertypes": [
+          "Legendary"
+        ]
+      }
+    },
+    {
+      "name": "Plateau",
+      "uuid": "f5a780a7-272e-5a98-b389-482db32ae8de",
+      "cmc": 0,
+      "rarity": "mythic",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "R",
+          "W"
+        ]
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Mountain",
+          "Plains"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Savannah",
+      "uuid": "10503346-859c-523b-927c-9995df010e98",
+      "cmc": 0,
+      "rarity": "mythic",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "G",
+          "W"
+        ]
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Forest",
+          "Plains"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Scrubland",
+      "uuid": "c44687d7-5d21-5b79-9162-6d63e41fddf3",
+      "cmc": 0,
+      "rarity": "mythic",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "B",
+          "W"
+        ]
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Plains",
+          "Swamp"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Taiga",
+      "uuid": "757c7b8e-9da1-509c-b1a4-8d6e4a8574df",
+      "cmc": 0,
+      "rarity": "mythic",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "G",
+          "R"
+        ]
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Mountain",
+          "Forest"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Tundra",
+      "uuid": "960c307f-598a-53a2-83f8-001ec3bf1e89",
+      "cmc": 0,
+      "rarity": "mythic",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "U",
+          "W"
+        ]
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Plains",
+          "Island"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Underground Sea",
+      "uuid": "7bbc3d32-8db7-587c-a214-889a7387ef12",
+      "cmc": 0,
+      "rarity": "mythic",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "B",
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Island",
+          "Swamp"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Volcanic Island",
+      "uuid": "32f82519-2ec0-5677-9e30-89ecd12e2325",
+      "cmc": 0,
+      "rarity": "mythic",
+      "color": {
+        "colors": [],
+        "colorIdentity": [
+          "R",
+          "U"
+        ]
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [
+          "Island",
+          "Mountain"
+        ],
+        "supertypes": []
+      }
+    },
+    {
+      "name": "Wasteland",
+      "uuid": "e41f861c-778b-5046-aef1-20d656d58af4",
+      "cmc": 0,
+      "rarity": "uncommon",
+      "color": {
+        "colors": [],
+        "colorIdentity": []
+      },
+      "type": {
+        "types": [
+          "Land"
+        ],
+        "subtypes": [],
+        "supertypes": []
+      }
+    }
+  ]
+}

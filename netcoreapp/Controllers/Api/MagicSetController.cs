@@ -10,10 +10,10 @@ namespace netcoreapp.Controllers.Api
     public class MagicSetController : Controller
     {
         [HttpGet]
-        public IEnumerable<MagicCard> Get()
+        public MagicSet Get()
         {
-            var cards = JsonConvert.DeserializeObject<MagicCard>(File.ReadAllText(@"../../Repositories/AllSetFiles/BFZ.json"));
-            return cards;
+            var set = JsonConvert.DeserializeObject<MagicSet>(BFZ.Json);
+            return set ;
         }
 
         // GET api/values/5
