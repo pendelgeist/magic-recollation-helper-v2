@@ -12,7 +12,7 @@
     "build": "parcel build src/index.tsx --out-dir ../netcoreapp/wwwroot/static --out-file main"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-router-dom": "latest"
